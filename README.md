@@ -2,4 +2,5 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-<meta
+<meta charset="UTF-8">
+
