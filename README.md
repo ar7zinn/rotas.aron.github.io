@@ -14,7 +14,6 @@
 }
 body{
  background:#eef3f7;
-
 }
 header{
   beckground#1565C0;
@@ -33,5 +32,23 @@ header{
    padding:20px;
    border-radius:10px;
    box-shadow:0px 2px 10px rgba(0,0,0,.2);
+}
+.grid{
+display:grid;
+grid-tamplate-columns:repeat(auto-fit,minmax(250px,1fr));
+gap:15px;
+}
+label{
+front-weigh:bold
+display:block;
+margin-top:10px
+}
+input{
+width:100%
+padding:10px;
+bordei:1px solid #ccc;
+border-radius:5px;
+cursor:pointer;
+font-size:15px;
    
   
