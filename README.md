@@ -17,4 +17,21 @@ body{
 
 }
 header{
-  beckground#1565C0
+  beckground#1565C0;
+  color:white;
+  padding:20px;
+  text-align:center;
+}
+.contanier{
+   width:95%;
+   max-width:1200px;
+   margin:auto;
+   margin-top:20px;
+}
+.card{
+   background:white;
+   padding:20px;
+   border-radius:10px;
+   box-shadow:0px 2px 10px rgba(0,0,0,.2);
+   
+  
