@@ -58,5 +58,21 @@ color:white;
 .editar{
 background:#FB8C00;
 color:white;
+}
+.excluir{
+background:#C62828
+color:white;
+}
+table{
+width:100%
+margin-top:20px;
+border-collapse:colapse;
+}
+th{
+background:#1565C0;
+color:white;
+padding:10px;
+
+
    
   
