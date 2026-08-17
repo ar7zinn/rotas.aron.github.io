@@ -50,5 +50,13 @@ bordei:1px solid #ccc;
 border-radius:5px;
 cursor:pointer;
 font-size:15px;
+}
+.salvar{
+background:#2E7D32;
+color:white;
+}
+.editar{
+background:#FB8C00;
+color:white;
    
   
